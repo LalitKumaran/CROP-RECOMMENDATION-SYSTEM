@@ -1,96 +1,58 @@
-﻿CROPS,TYPE_OF_CROP,SOIL,SOIL_PH_LOW,SOIL_PH_HIGH,CROPDURATION_MIN,CROPDURATION_MAX,MIN_TEMP,MAX_TEMP,WATERSOURCE,WATERREQUIRED_MIN,WATERREQUIRED_MAX,RELATIVE_HUMIDITY_MIN,RELATIVE_HUMIDITY_MAX,DISTRICT WISE CROP AVAILABILITY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,"ARIYALUR
-","CAUVERY
-","CHENGLEPUT
-","COIMBATORE
-","CUDDALORE
-","DHARMAPURI
-","DINDIGUL
-","ERODE
-","HILLY REGIONS OF SHEVROY
-","JAWAD HILLS
-","KANCHEEPURAM
-","KANYAKUMARI
-","KARUR
-","KOLLI HILLS
-","KRISHNAGIRI
-","MADURAI
-","NAGAPATTINAM
-","NAMAKAL
-","PERAMBALUR
-","PUDUKKOTTAI
-","RAMANATHANPURAM
-","SALEM
-","SIVAGANGAI
-","TANJORE
-","THALAVADI HILLS
-","THE NILGRIS
-","THENI
-","THIRUCHIRAPALLI
-","THIRUNELVELI
-","THIRUPPUR
-","THIRUVALLUR
-","THIRUVANNAMALAI
-","THOOTHUKUDI
-","TIRUVARUR
-","VELLORE
-","VILLUPURAM
-","VIRUDHUNAGAR
-"
-rice,cereals,Alluvia or loamy and clayey soil,5,8,150,150,20,40,both,900,2500,60,80,0,0,0,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1
-wheat,cereals,Well Drained,6,7,80,90,21,24,both,450,650,50,60,0,0,0,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
-maize,millets,temperate podzols to the leached red soils of the tropics. ,5.5,7,105,110,18,27,both,500,800,60,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
-sorghum,millets,well-drained loamy soils,6,7.5,95,105,15,40,both,450,650,90,100,1,0,0,1,1,1,1,1,0,0,1,1,1,0,1,1,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,1,1,1
-Pearl millet,millets,"clay, clay loam, or sandy loam soils",5.5,7.5,75,85,12,45,both,350,500,80,95,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
-ragi,millets,"red, black, sandy, loamy and shallow black soils.",5,8.2,100,120,11,27,both,700,1200,15,20,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
-panivaragu,millets,sandy loam to clays of black cotton soils,5.5,7,70,75,10,45,both,330,350,15,20,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,1,0,0
-samai,millets,Loamy Soil,8.5,9,80,100,26,40,both,480,750,15,20,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,1,0,0
-thinai,millets,"alluvial,loamy ",5.5,7,85,90,20,29,both,500,900,15,20,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,1,0,1,1,0
-varagu,millets,clay-based soil,5.5,6.5,120,120,25,27,rainfed,500,900,15,20,0,0,0,0,1,1,1,0,0,0,1,0,1,0,1,1,1,1,1,0,1,1,0,1,0,0,1,1,0,0,1,1,0,1,1,1,0
-kudiraivali,millets,Loamy Soil,5.5,7,75,95,20,20,rainfed,500,900,15,20,0,0,0,1,0,1,1,0,0,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0
-blackgram,pulses,sandy soils to heavy cotton soils,6.5,7.8,70,75,20,42,both,600,1000,17,18,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
-greengram,pulses,well-drained sandy loams or sandy soils ,6.5,7.5,100,100,25,35,both,850,1000,60,70,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
-cowpea,pulses, well-drained sandy loams or sandy soils ,5,6.5,60,90,20,30,both,400,700,50,55,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
-bengalgram,pulses,medium to heavy black soil,5.5,7,90,120,20,30,both,650,1000,60,60,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,1,1,1,0,0,1,1,0,1,0,1
-horsegram,pulses, light to heavy soils ,6,7.5,100,105,25,40,rainfed,800,800,50,80,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
-redgram,pulses,deep loam soils,6.5,7,120,150,18,30,rainfed,600,1400,76,81,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
-soyabean,pulses,"Well-drained, Loamy Soil",6,7,90,100,15,32,both,450,700,70,92,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
-groundnut,oil seeds,Well-drained sandy loam or sandy clay loam soil ,6.5,7,140,150,11,47,both,500,700,65,65,1,0,0,1,1,1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,0,1,1,1
-sunflower,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",6.5,8,85,95,20,25,both,350,500,80,98,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,1,0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,1,1
-gingely,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",5.5,8,85,90,25,35,both,350,400,80,100,1,0,0,1,1,1,1,1,0,0,1,0,1,0,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1
-castor,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",5,8.5,120,160,22,26,both,500,500,80,100,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-cotton,fibre crop," black soils, (ii) red soils and (iii) alluvial soils.",7,8,135,140,21,30,both,700,1300,70,90,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1,0,1,1
-jute,fibre crop,Sandy and Clay Loam,6,7.5,120,140,24,38,both,1000,1300,70,90,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,1,1,0,0,1,1,1,1,1,0
-sugarcane,sugar crops,Clayey Loamy Soil/ Black Cotton Soil/ Red Loamy Soil/ Brown Loamy Soil,6.5,8,300,330,21,27,irrigated,1500,2500,65,80,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
-sugarbeet,sugar crops,Well drained sandy loam and clayey loam soils ,6,8,150,180,15,25,irrigated,600,800,65,80,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-tomato,vegetables,Sandy loam,6.5,7.5,90,140,18,30,both,600,800,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-onion,vegetables, Any Loamy,5.8,6.5,100,120,20,25,both,350,550,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-chillies,vegetables,Loamy soil/ Lateritic soil,6,6.8,120,120,23,30,both,500,500,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Cabbage,colecrops,LoamySandy,6,6.5,80,180,7,27,irrigated,380,500,90,100,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-bhendi,vegetables,Loamy soil/ Lateritic soil,6,6.8,55,65,24,27,both,1200,2200,95,100,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-brinjal,vegetables,Loamy soil/ Lateritic soil,6,7.5,100,150,18,30,both,900,1200,90,90,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-capsicum,vegetables,Loamy soil/ Lateritic soil,5.5,7,60,60,15,30,irrigated,500,1200,90,95,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-pumpkin,vegetables,Loamy soil/ Lateritic soil,6,7,115,120,18,27,both,900,1200,60,70,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-snake gourd,vegetables,Loamy soil/ Lateritic soil,6,6.7,90,90,18,27,both,900,1200,85,90,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-ribbed gourd,vegetables,Sandy Loam,6.5,7.5,125,125,25,35,both,900,1200,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-bottle gourd,vegetables,Sandy loam,6,6.7,120,120,18,27,both,900,1200,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-bitter gourd,vegetables,Well drained loamy soil,6.5,7,55,60,25,30,both,900,1200,78,92,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-ash gourd,vegetables,Sandy loam,6,6.7,120,120,24,31,both,900,1200,50,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-cucumber,vegetables,Loamy,6.5,7.5,120,120,25,35,irrigated,1200,1500,60,70,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-watermelon,vegetables,Sandy,6,7.5,70,85,24,27,irrigated,900,1200,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-muskmelon,vegetables,Sandy Loam,6.5,7.5,70,100,25,35,irrigated,900,1200,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-tinda,vegetables,Sandy loam,6.5,7.5,70,70,25,30,irrigated,900,1200,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-chowchow,vegetables,Loamy soil/ Lateritic soil,5.5,6.5,150,150,18,22,both,1200,1500,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-cluster bean,vegetables,Sandy Loam,7,8.5,60,90,21,25,both,900,1200,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-vegetable cowpea,vegetables,Sandy loam,5.6,6,45,90,20,30,both,900,1200,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-french bean,vegetables,Well drained loamy soil,5.5,6,40,50,10,27,both,900,1200,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-peas,vegetables,Sandy loam,6.5,7.5,60,70,10,30,rainfed,900,1200,70,90,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-annual moringa,vegetables,Sandy loam,6.5,8,210,240,25,35,both,900,1200,75,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-carrot,Root&tuber,light or sandy loam soil,6,7,75,75,15,20,irrigated,1000,1000,60,70,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-beetroot,Root&tuber,all types of friable soil,6,7,45,65,18,21,irrigated,1000,1000,98,100,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-radish,Root&tuber,Well grained deep loamy moist and alluviual soil,5.5,6.8,21,21,10,18,irrigated,1000,1000,95,100,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-sweet potato,Root&tuber,well-drained soil,5.7,6.7,90,120,21,26,both,1000,1000,85,90,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-tapoica,Root&tuber,Red lateritic loam,5.5,7,270,300,25,29,both,1000,1000,50,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-elephant foot yam,Root&tuber,Rich red loamy soil,5.5,7,240,240,25,35,both,1000,1500,80,85,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-cauliflower,colecrops,LoamySandy,6.5,6.8,55,100,5,30,both,380,500,95,100,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-small onion,bulbvegetables,Sandy loam,6,7,70,90,16,25,both,650,750,65,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+﻿CROPS,TYPE_OF_CROP,SOIL,SEASON,SOWN,HARVESTED,SOIL_PH_LOW,SOIL_PH_HIGH,CROPDURATION_MIN,CROPDURATION_MAX,MIN_TEMP,MAX_TEMP,WATERSOURCE,WATERREQUIRED_MIN,WATERREQUIRED_MAX,RELATIVE_HUMIDITY_MIN,RELATIVE_HUMIDITY_MAX
+rice,cereals,Alluvia or loamy and clayey soil,kharif,Jun-Jul,Sep-Oct,5,8,150,150,20,40,both,900,2500,60,80
+wheat,cereals,Well Drained,rabi,Oct-Dec,Apr-Jun,6,7,80,90,21,24,both,450,650,50,60
+maize,millets,temperate podzols to the leached red soils of the tropics. ,kharif,Jun-Jul,Sep-Oct,5.5,7,105,110,18,27,both,500,800,60,85
+sorghum,millets,well-drained loamy soils,kharif,Jun-Jul,Sep-Oct,6,7.5,95,105,15,40,both,450,650,90,100
+Pearl millet,millets,"clay, clay loam, or sandy loam soils",kharif,Jun-Jul,Sep-Oct,5.5,7.5,75,85,12,45,both,350,500,80,95
+ragi,millets,"red, black, sandy, loamy and shallow black soils.",kharif,Jun-Jul,Sep-Oct,5,8.2,100,120,11,27,both,700,1200,15,20
+panivaragu,millets,sandy loam to clays of black cotton soils,kharif,Jun-Jul,Sep-Oct,5.5,7,70,75,10,45,both,330,350,15,20
+samai,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,8.5,9,80,100,26,40,both,480,750,15,20
+thinai,millets,"alluvial,loamy ",kharif,Jun-Jul,Sep-Oct,5.5,7,85,90,20,29,both,500,900,15,20
+varagu,millets,clay-based soil,kharif,Jun-Jul,Sep-Oct,5.5,6.5,120,120,25,27,rainfed,500,900,15,20
+kudiraivali,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,5.5,7,75,95,20,20,rainfed,500,900,15,20
+blackgram,pulses,sandy soils to heavy cotton soils,rabi,Oct-Dec,Apr-Jun,6.5,7.8,70,75,20,42,both,600,1000,17,18
+greengram,pulses,well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,6.5,7.5,100,100,25,35,both,850,1000,60,70
+cowpea,pulses, well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,5,6.5,60,90,20,30,both,400,700,50,55
+bengalgram,pulses,medium to heavy black soil,rabi,Oct-Dec,Apr-Jun,5.5,7,90,120,20,30,both,650,1000,60,60
+horsegram,pulses, light to heavy soils ,rabi,Oct-Dec,Apr-Jun,6,7.5,100,105,25,40,rainfed,800,800,50,80
+redgram,pulses,deep loam soils,rabi,Oct-Dec,Apr-Jun,6.5,7,120,150,18,30,rainfed,600,1400,76,81
+soyabean,pulses,"Well-drained, Loamy Soil",kharif,Jun-Jul,Sep-Oct,6,7,90,100,15,32,both,450,700,70,92
+groundnut,oil seeds,Well-drained sandy loam or sandy clay loam soil ,kharif,Jun-Jul,Sep-Oct,6.5,7,140,150,11,47,both,500,700,65,65
+sunflower,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,6.5,8,85,95,20,25,both,350,500,80,98
+gingely,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,5.5,8,85,90,25,35,both,350,400,80,100
+castor,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,5,8.5,120,160,22,26,both,500,500,80,100
+cotton,fibre crop," black soils, (ii) red soils and (iii) alluvial soils.",kharif,Jun-Jul,Sep-Oct,7,8,135,140,21,30,both,700,1300,70,90
+jute,fibre crop,Sandy and Clay Loam,kharif,Jun-Jul,Sep-Oct,6,7.5,120,140,24,38,both,1000,1300,70,90
+sugarcane,sugar crops,Clayey Loamy Soil/ Black Cotton Soil/ Red Loamy Soil/ Brown Loamy Soil,kharif,Jun-Jul,Sep-Oct,6.5,8,300,330,21,27,irrigated,1500,2500,65,80
+sugarbeet,sugar crops,Well drained sandy loam and clayey loam soils ,kharif,Jun-Jul,Sep-Oct,6,8,150,180,15,25,irrigated,600,800,65,80
+tomato,vegetables,Sandy loam,Zaid,Mar-Jul,Mar-Jul,6.5,7.5,90,140,18,30,both,600,800,75,85
+onion,vegetables, Any Loamy,Zaid,Mar-Jul,Mar-Jul,5.8,6.5,100,120,20,25,both,350,550,75,85
+chillies,vegetables,Loamy soil/ Lateritic soil,Zaid,Mar-Jul,Mar-Jul,6,6.8,120,120,23,30,both,500,500,75,85
+Cabbage,colecrops,LoamySandy,Zaid,Mar-Jul,Mar-Jul,6,6.5,80,180,7,27,irrigated,380,500,90,100
+bhendi,vegetables,Loamy soil/ Lateritic soil,Zaid,Mar-Jul,Mar-Jul,6,6.8,55,65,24,27,both,1200,2200,95,100
+brinjal,vegetables,Loamy soil/ Lateritic soil,Zaid,Mar-Jul,Mar-Jul,6,7.5,100,150,18,30,both,900,1200,90,90
+capsicum,vegetables,Loamy soil/ Lateritic soil,Zaid,Mar-Jul,Mar-Jul,5.5,7,60,60,15,30,irrigated,500,1200,90,95
+pumpkin,vegetables,Loamy soil/ Lateritic soil,Zaid,Mar-Jul,Mar-Jul,6,7,115,120,18,27,both,900,1200,60,70
+snake gourd,vegetables,Loamy soil/ Lateritic soil,Zaid,Mar-Jul,Mar-Jul,6,6.7,90,90,18,27,both,900,1200,85,90
+ribbed gourd,vegetables,Sandy Loam,Zaid,Mar-Jul,Mar-Jul,6.5,7.5,125,125,25,35,both,900,1200,75,85
+bottle gourd,vegetables,Sandy loam,Zaid,Mar-Jul,Mar-Jul,6,6.7,120,120,18,27,both,900,1200,75,85
+bitter gourd,vegetables,Well drained loamy soil,Zaid,Mar-Jul,Mar-Jul,6.5,7,55,60,25,30,both,900,1200,78,92
+ash gourd,vegetables,Sandy loam,Zaid,Mar-Jul,Mar-Jul,6,6.7,120,120,24,31,both,900,1200,50,75
+cucumber,vegetables,Loamy,Zaid,Mar-Jul,Mar-Jul,6.5,7.5,120,120,25,35,irrigated,1200,1500,60,70
+watermelon,vegetables,Sandy,Zaid,Mar-Jul,Mar-Jul,6,7.5,70,85,24,27,irrigated,900,1200,75,85
+muskmelon,vegetables,Sandy Loam,Zaid,Mar-Jul,Mar-Jul,6.5,7.5,70,100,25,35,irrigated,900,1200,75,85
+tinda,vegetables,Sandy loam,Zaid,Mar-Jul,Mar-Jul,6.5,7.5,70,70,25,30,irrigated,900,1200,75,85
+chowchow,vegetables,Loamy soil/ Lateritic soil,Zaid,Mar-Jul,Mar-Jul,5.5,6.5,150,150,18,22,both,1200,1500,75,85
+cluster bean,vegetables,Sandy Loam,Zaid,Mar-Jul,Mar-Jul,7,8.5,60,90,21,25,both,900,1200,75,85
+vegetable cowpea,vegetables,Sandy loam,Zaid,Mar-Jul,Mar-Jul,5.6,6,45,90,20,30,both,900,1200,75,85
+french bean,vegetables,Well drained loamy soil,Zaid,Mar-Jul,Mar-Jul,5.5,6,40,50,10,27,both,900,1200,75,85
+peas,vegetables,Sandy loam,rabi,Oct-Dec,Apr-Jun,6.5,7.5,60,70,10,30,rainfed,900,1200,70,90
+annual moringa,vegetables,Sandy loam,Zaid,Mar-Jul,Mar-Jul,6.5,8,210,240,25,35,both,900,1200,75,85
+carrot,Root&tuber,light or sandy loam soil,rabi,Oct-Dec,Apr-Jun,6,7,75,75,15,20,irrigated,1000,1000,60,70
+beetroot,Root&tuber,all types of friable soil,rabi,Oct-Dec,Apr-Jun,6,7,45,65,18,21,irrigated,1000,1000,98,100
+radish,Root&tuber,Well grained deep loamy moist and alluviual soil,rabi,Oct-Dec,Apr-Jun,5.5,6.8,21,21,10,18,irrigated,1000,1000,95,100
+sweet potato,Root&tuber,well-drained soil,rabi,Oct-Dec,Apr-Jun,5.7,6.7,90,120,21,26,both,1000,1000,85,90
+tapoica,Root&tuber,Red lateritic loam,rabi,Oct-Dec,Apr-Jun,5.5,7,270,300,25,29,both,1000,1000,50,60
+elephant foot yam,Root&tuber,Rich red loamy soil,rabi,Oct-Dec,Apr-Jun,5.5,7,240,240,25,35,both,1000,1500,80,85
+cauliflower,colecrops,LoamySandy,rabi,Oct-Dec,Apr-Jun,6.5,6.8,55,100,5,30,both,380,500,95,100
+small onion,bulbvegetables,Sandy loam,,,,6,7,70,90,16,25,both,650,750,65,75
