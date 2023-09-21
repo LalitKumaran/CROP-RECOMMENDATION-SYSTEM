@@ -1,0 +1,126 @@
+,CROPS,TYPE_OF_CROP,SOIL,SEASON,SOWN,HARVESTED,SOIL_PH,CROP_DURATION,WATERSOURCE,TEMP,WATER_REQUIRED,RELATIVE_HUMIDITY
+0,rice,cereals,Alluvia or loamy and clayey soil,kharif,Jun-Jul,Sep-Oct,7.5,150,"irrigated,rainfall",20.24,1233,74.34
+1,rice,cereals,Alluvia or loamy and clayey soil,kharif,Jun-Jul,Sep-Oct,5.3,150,"irrigated,rainfall",21.56,2325,61.57
+2,rice,cereals,Alluvia or loamy and clayey soil,kharif,Jun-Jul,Sep-Oct,7.8,150,"irrigated,rainfall",38.94,1561,71.01
+3,rice,cereals,Alluvia or loamy and clayey soil,kharif,Jun-Jul,Sep-Oct,7.7,150,"irrigated,rainfall",29.78,1692,69.69
+4,rice,cereals,Alluvia or loamy and clayey soil,kharif,Jun-Jul,Sep-Oct,6.3,150,"irrigated,rainfall",32.2,936,72.48
+5,wheat,cereals,Well Drained,rabi,Oct-Dec,Apr-Jun,6.6,88,"irrigated,rainfall",22.47,612,54.9
+6,wheat,cereals,Well Drained,rabi,Oct-Dec,Apr-Jun,6.9,86,"irrigated,rainfall",23.09,630,54.8
+7,wheat,cereals,Well Drained,rabi,Oct-Dec,Apr-Jun,6.7,81,"irrigated,rainfall",22.1,514,52.42
+8,wheat,cereals,Well Drained,rabi,Oct-Dec,Apr-Jun,6.7,85,"irrigated,rainfall",22.21,626,57.19
+9,wheat,cereals,Well Drained,rabi,Oct-Dec,Apr-Jun,6.2,87,"irrigated,rainfall",22.2,473,59.31
+10,maize,millets,temperate podzols to the leached red soils of the tropics. ,kharif,Jun-Jul,Sep-Oct,6.2,107,"irrigated,rainfall",25.76,746,64.94
+11,maize,millets,temperate podzols to the leached red soils of the tropics. ,kharif,Jun-Jul,Sep-Oct,6.1,107,"irrigated,rainfall",26.46,634,76.37
+12,maize,millets,temperate podzols to the leached red soils of the tropics. ,kharif,Jun-Jul,Sep-Oct,6.1,109,"irrigated,rainfall",19.0,703,68.02
+13,maize,millets,temperate podzols to the leached red soils of the tropics. ,kharif,Jun-Jul,Sep-Oct,6.9,109,"irrigated,rainfall",26.63,631,65.54
+14,maize,millets,temperate podzols to the leached red soils of the tropics. ,kharif,Jun-Jul,Sep-Oct,6.1,105,"irrigated,rainfall",18.63,529,62.85
+15,sorghum,millets,well-drained loamy soils,kharif,Jun-Jul,Sep-Oct,7.0,105,"irrigated,rainfall",39.8,622,90.16
+16,sorghum,millets,well-drained loamy soils,kharif,Jun-Jul,Sep-Oct,7.1,105,"irrigated,rainfall",17.27,494,95.59
+17,sorghum,millets,well-drained loamy soils,kharif,Jun-Jul,Sep-Oct,7.4,105,"irrigated,rainfall",29.39,580,96.65
+18,sorghum,millets,well-drained loamy soils,kharif,Jun-Jul,Sep-Oct,7.4,104,"irrigated,rainfall",26.76,507,99.59
+19,sorghum,millets,well-drained loamy soils,kharif,Jun-Jul,Sep-Oct,6.1,105,"irrigated,rainfall",37.09,504,91.74
+20,Pearl millet,millets,"clay, clay loam, or sandy loam soils",kharif,Jun-Jul,Sep-Oct,5.8,75,"irrigated,rainfall",19.9,484,89.42
+21,Pearl millet,millets,"clay, clay loam, or sandy loam soils",kharif,Jun-Jul,Sep-Oct,7.4,84,"irrigated,rainfall",32.24,391,87.48
+22,Pearl millet,millets,"clay, clay loam, or sandy loam soils",kharif,Jun-Jul,Sep-Oct,6.4,77,"irrigated,rainfall",20.32,433,87.08
+23,Pearl millet,millets,"clay, clay loam, or sandy loam soils",kharif,Jun-Jul,Sep-Oct,7.2,75,"irrigated,rainfall",16.19,498,91.22
+24,Pearl millet,millets,"clay, clay loam, or sandy loam soils",kharif,Jun-Jul,Sep-Oct,5.5,85,"irrigated,rainfall",29.71,441,88.87
+25,ragi,millets,"red, black, sandy, loamy and shallow black soils.",kharif,Jun-Jul,Sep-Oct,7.7,105,"irrigated,rainfall",14.09,1196,16.94
+26,ragi,millets,"red, black, sandy, loamy and shallow black soils.",kharif,Jun-Jul,Sep-Oct,6.5,100,"irrigated,rainfall",14.25,1110,18.45
+27,ragi,millets,"red, black, sandy, loamy and shallow black soils.",kharif,Jun-Jul,Sep-Oct,6.3,108,"irrigated,rainfall",25.76,719,19.32
+28,ragi,millets,"red, black, sandy, loamy and shallow black soils.",kharif,Jun-Jul,Sep-Oct,7.3,119,"irrigated,rainfall",14.88,1164,16.13
+29,ragi,millets,"red, black, sandy, loamy and shallow black soils.",kharif,Jun-Jul,Sep-Oct,7.1,119,"irrigated,rainfall",26.32,812,18.23
+30,panivaragu,millets,sandy loam to clays of black cotton soils,kharif,Jun-Jul,Sep-Oct,6.3,72,"irrigated,rainfall",42.65,336,19.54
+31,panivaragu,millets,sandy loam to clays of black cotton soils,kharif,Jun-Jul,Sep-Oct,6.8,71,"irrigated,rainfall",21.5,340,15.33
+32,panivaragu,millets,sandy loam to clays of black cotton soils,kharif,Jun-Jul,Sep-Oct,7.0,72,"irrigated,rainfall",39.05,350,18.06
+33,panivaragu,millets,sandy loam to clays of black cotton soils,kharif,Jun-Jul,Sep-Oct,5.6,75,"irrigated,rainfall",41.25,348,18.6
+34,panivaragu,millets,sandy loam to clays of black cotton soils,kharif,Jun-Jul,Sep-Oct,6.5,72,"irrigated,rainfall",12.88,338,19.62
+35,samai,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,8.9,88,"irrigated,rainfall",33.38,669,19.73
+36,samai,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,8.6,95,"irrigated,rainfall",33.59,686,19.34
+37,samai,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,8.8,84,"irrigated,rainfall",37.89,500,19.64
+38,samai,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,8.7,96,"irrigated,rainfall",36.29,740,16.98
+39,samai,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,8.9,82,"irrigated,rainfall",28.27,699,19.55
+40,thinai,millets,"alluvial,loamy ",kharif,Jun-Jul,Sep-Oct,6.8,90,"irrigated,rainfall",28.88,729,18.27
+41,thinai,millets,"alluvial,loamy ",kharif,Jun-Jul,Sep-Oct,5.9,85,"irrigated,rainfall",24.07,717,15.73
+42,thinai,millets,"alluvial,loamy ",kharif,Jun-Jul,Sep-Oct,6.2,85,"irrigated,rainfall",23.92,791,18.31
+43,thinai,millets,"alluvial,loamy ",kharif,Jun-Jul,Sep-Oct,6.8,90,"irrigated,rainfall",24.25,874,18.39
+44,thinai,millets,"alluvial,loamy ",kharif,Jun-Jul,Sep-Oct,6.7,88,"irrigated,rainfall",23.81,645,16.09
+45,varagu,millets,clay-based soil,kharif,Jun-Jul,Sep-Oct,5.7,120,rainfed,26.06,684,18.46
+46,varagu,millets,clay-based soil,kharif,Jun-Jul,Sep-Oct,6.2,120,rainfed,25.98,533,17.15
+47,varagu,millets,clay-based soil,kharif,Jun-Jul,Sep-Oct,5.9,120,rainfed,26.12,763,19.32
+48,varagu,millets,clay-based soil,kharif,Jun-Jul,Sep-Oct,5.8,120,rainfed,25.44,633,15.76
+49,varagu,millets,clay-based soil,kharif,Jun-Jul,Sep-Oct,6.2,120,rainfed,25.08,527,19.18
+50,kudiraivali,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,6.2,87,rainfed,20.0,792,17.7
+51,kudiraivali,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,6.4,78,rainfed,20.0,685,17.39
+52,kudiraivali,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,6.9,89,rainfed,20.0,820,15.13
+53,kudiraivali,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,5.5,85,rainfed,20.0,766,18.97
+54,kudiraivali,millets,Loamy Soil,kharif,Jun-Jul,Sep-Oct,6.6,86,rainfed,20.0,525,17.45
+55,blackgram,pulses,sandy soils to heavy cotton soils,rabi,Oct-Dec,Apr-Jun,7.6,71,"irrigated,rainfall",41.65,631,17.35
+56,blackgram,pulses,sandy soils to heavy cotton soils,rabi,Oct-Dec,Apr-Jun,7.0,72,"irrigated,rainfall",41.09,600,17.37
+57,blackgram,pulses,sandy soils to heavy cotton soils,rabi,Oct-Dec,Apr-Jun,7.6,72,"irrigated,rainfall",24.8,953,17.74
+58,blackgram,pulses,sandy soils to heavy cotton soils,rabi,Oct-Dec,Apr-Jun,6.9,75,"irrigated,rainfall",29.45,849,17.88
+59,blackgram,pulses,sandy soils to heavy cotton soils,rabi,Oct-Dec,Apr-Jun,7.3,72,"irrigated,rainfall",31.26,635,17.42
+60,greengram,pulses,well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,6.7,100,"irrigated,rainfall",33.29,912,66.58
+61,greengram,pulses,well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,6.6,100,"irrigated,rainfall",28.13,900,62.24
+62,greengram,pulses,well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,6.5,100,"irrigated,rainfall",25.69,905,67.71
+63,greengram,pulses,well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,7.0,100,"irrigated,rainfall",29.28,996,69.08
+64,greengram,pulses,well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,6.5,100,"irrigated,rainfall",34.35,896,61.09
+65,cowpea,pulses, well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,6.2,64,"irrigated,rainfall",21.51,629,52.49
+66,cowpea,pulses, well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,6.1,73,"irrigated,rainfall",29.73,516,51.09
+67,cowpea,pulses, well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,5.4,77,"irrigated,rainfall",22.14,547,54.52
+68,cowpea,pulses, well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,5.3,77,"irrigated,rainfall",29.14,647,51.89
+69,cowpea,pulses, well-drained sandy loams or sandy soils ,rabi,Oct-Dec,Apr-Jun,5.7,81,"irrigated,rainfall",25.53,507,50.41
+70,bengalgram,pulses,medium to heavy black soil,rabi,Oct-Dec,Apr-Jun,6.6,100,"irrigated,rainfall",29.64,964,60.0
+71,bengalgram,pulses,medium to heavy black soil,rabi,Oct-Dec,Apr-Jun,5.6,106,"irrigated,rainfall",27.43,959,60.0
+72,bengalgram,pulses,medium to heavy black soil,rabi,Oct-Dec,Apr-Jun,5.8,109,"irrigated,rainfall",26.07,976,60.0
+73,bengalgram,pulses,medium to heavy black soil,rabi,Oct-Dec,Apr-Jun,6.8,116,"irrigated,rainfall",23.54,871,60.0
+74,bengalgram,pulses,medium to heavy black soil,rabi,Oct-Dec,Apr-Jun,6.6,114,"irrigated,rainfall",23.59,748,60.0
+75,horsegram,pulses, light to heavy soils ,rabi,Oct-Dec,Apr-Jun,6.6,105,rainfed,34.37,800,69.76
+76,horsegram,pulses, light to heavy soils ,rabi,Oct-Dec,Apr-Jun,6.8,100,rainfed,36.43,800,55.63
+77,horsegram,pulses, light to heavy soils ,rabi,Oct-Dec,Apr-Jun,6.8,104,rainfed,30.02,800,54.85
+78,horsegram,pulses, light to heavy soils ,rabi,Oct-Dec,Apr-Jun,7.2,105,rainfed,25.46,800,53.94
+79,horsegram,pulses, light to heavy soils ,rabi,Oct-Dec,Apr-Jun,6.6,100,rainfed,38.99,800,72.96
+80,redgram,pulses,deep loam soils,rabi,Oct-Dec,Apr-Jun,6.6,136,rainfed,27.79,1277,78.38
+81,redgram,pulses,deep loam soils,rabi,Oct-Dec,Apr-Jun,6.7,120,rainfed,23.22,1162,80.13
+82,redgram,pulses,deep loam soils,rabi,Oct-Dec,Apr-Jun,6.7,136,rainfed,19.41,982,80.03
+83,redgram,pulses,deep loam soils,rabi,Oct-Dec,Apr-Jun,6.7,140,rainfed,24.24,613,78.3
+84,redgram,pulses,deep loam soils,rabi,Oct-Dec,Apr-Jun,6.8,125,rainfed,18.26,1013,80.18
+85,soyabean,pulses,"Well-drained, Loamy Soil",kharif,Jun-Jul,Sep-Oct,6.6,100,"irrigated,rainfall",17.85,515,82.41
+86,soyabean,pulses,"Well-drained, Loamy Soil",kharif,Jun-Jul,Sep-Oct,6.2,92,"irrigated,rainfall",27.73,539,72.17
+87,soyabean,pulses,"Well-drained, Loamy Soil",kharif,Jun-Jul,Sep-Oct,6.6,92,"irrigated,rainfall",22.91,471,81.01
+88,soyabean,pulses,"Well-drained, Loamy Soil",kharif,Jun-Jul,Sep-Oct,6.8,98,"irrigated,rainfall",18.85,623,73.59
+89,soyabean,pulses,"Well-drained, Loamy Soil",kharif,Jun-Jul,Sep-Oct,7.0,92,"irrigated,rainfall",26.63,533,81.68
+90,groundnut,oil seeds,Well-drained sandy loam or sandy clay loam soil ,kharif,Jun-Jul,Sep-Oct,6.7,150,"irrigated,rainfall",17.52,614,65.0
+91,groundnut,oil seeds,Well-drained sandy loam or sandy clay loam soil ,kharif,Jun-Jul,Sep-Oct,6.9,145,"irrigated,rainfall",25.14,564,65.0
+92,groundnut,oil seeds,Well-drained sandy loam or sandy clay loam soil ,kharif,Jun-Jul,Sep-Oct,6.9,150,"irrigated,rainfall",35.38,691,65.0
+93,groundnut,oil seeds,Well-drained sandy loam or sandy clay loam soil ,kharif,Jun-Jul,Sep-Oct,6.6,150,"irrigated,rainfall",34.57,538,65.0
+94,groundnut,oil seeds,Well-drained sandy loam or sandy clay loam soil ,kharif,Jun-Jul,Sep-Oct,6.7,148,"irrigated,rainfall",33.19,619,65.0
+95,sunflower,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,7.9,91,"irrigated,rainfall",20.35,353,96.95
+96,sunflower,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,7.8,92,"irrigated,rainfall",24.71,475,92.02
+97,sunflower,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,7.1,95,"irrigated,rainfall",20.32,434,84.89
+98,sunflower,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,6.7,85,"irrigated,rainfall",24.37,491,85.78
+99,sunflower,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,7.1,93,"irrigated,rainfall",24.84,480,87.95
+100,gingely,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,6.8,85,"irrigated,rainfall",33.76,395,94.5
+101,gingely,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,7.4,89,"irrigated,rainfall",31.64,396,97.92
+102,gingely,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,7.2,90,"irrigated,rainfall",31.62,356,85.3
+103,gingely,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,6.1,88,"irrigated,rainfall",32.93,355,87.6
+104,gingely,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,5.7,85,"irrigated,rainfall",31.42,355,90.62
+105,castor,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,5.7,137,"irrigated,rainfall",23.92,500,84.72
+106,castor,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,5.7,130,"irrigated,rainfall",24.32,500,82.31
+107,castor,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,7.9,148,"irrigated,rainfall",23.93,500,85.06
+108,castor,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,6.6,137,"irrigated,rainfall",25.88,500,86.11
+109,castor,oil seeds,"Loams, silt loams, clay loams, or silty clay loams",kharif,Jun-Jul,Sep-Oct,6.7,145,"irrigated,rainfall",22.48,500,99.02
+110,cotton,fibre crop," black soils, (ii) red soils and (iii) alluvial soils.",kharif,Jun-Jul,Sep-Oct,8.0,137,"irrigated,rainfall",28.13,1006,70.06
+111,cotton,fibre crop," black soils, (ii) red soils and (iii) alluvial soils.",kharif,Jun-Jul,Sep-Oct,7.8,140,"irrigated,rainfall",29.81,1042,84.19
+112,cotton,fibre crop," black soils, (ii) red soils and (iii) alluvial soils.",kharif,Jun-Jul,Sep-Oct,8.0,135,"irrigated,rainfall",27.92,824,70.5
+113,cotton,fibre crop," black soils, (ii) red soils and (iii) alluvial soils.",kharif,Jun-Jul,Sep-Oct,7.2,137,"irrigated,rainfall",25.26,1282,73.32
+114,cotton,fibre crop," black soils, (ii) red soils and (iii) alluvial soils.",kharif,Jun-Jul,Sep-Oct,7.7,136,"irrigated,rainfall",28.21,745,78.21
+115,jute,fibre crop,Sandy and Clay Loam,kharif,Jun-Jul,Sep-Oct,7.4,128,"irrigated,rainfall",32.87,1014,73.89
+116,jute,fibre crop,Sandy and Clay Loam,kharif,Jun-Jul,Sep-Oct,6.9,123,"irrigated,rainfall",37.29,1000,84.86
+117,jute,fibre crop,Sandy and Clay Loam,kharif,Jun-Jul,Sep-Oct,7.0,125,"irrigated,rainfall",34.74,1124,88.09
+118,jute,fibre crop,Sandy and Clay Loam,kharif,Jun-Jul,Sep-Oct,7.4,138,"irrigated,rainfall",35.25,1116,70.66
+119,jute,fibre crop,Sandy and Clay Loam,kharif,Jun-Jul,Sep-Oct,7.5,136,"irrigated,rainfall",38.0,1102,77.88
+120,sugarcane,sugar crops,Clayey Loamy Soil/ Black Cotton Soil/ Red Loamy Soil/ Brown Loamy Soil,kharif,Jun-Jul,Sep-Oct,7.6,309,irrigated,26.81,2001,77.77
+121,sugarcane,sugar crops,Clayey Loamy Soil/ Black Cotton Soil/ Red Loamy Soil/ Brown Loamy Soil,kharif,Jun-Jul,Sep-Oct,7.2,304,irrigated,22.03,2357,79.66
+122,sugarcane,sugar crops,Clayey Loamy Soil/ Black Cotton Soil/ Red Loamy Soil/ Brown Loamy Soil,kharif,Jun-Jul,Sep-Oct,7.4,321,irrigated,26.83,1838,74.72
+123,sugarcane,sugar crops,Clayey Loamy Soil/ Black Cotton Soil/ Red Loamy Soil/ Brown Loamy Soil,kharif,Jun-Jul,Sep-Oct,6.6,318,irrigated,25.1,2164,67.6
+124,sugarcane,sugar crops,Clayey Loamy Soil/ Black Cotton Soil/ Red Loamy Soil/ Brown Loamy Soil,kharif,Jun-Jul,Sep-Oct,7.7,328,irrigated,25.77,2338,73.14
